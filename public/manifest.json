@@ -1,0 +1,17 @@
+{
+  "name": "VOYNICH — Premium Automotive",
+  "short_name": "VOYNICH",
+  "description": "VOYNICH is a premium automotive brand focused on precision engineering, performance, technology and sophisticated design.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VOYNICH monogram">
+  <rect width="64" height="64" fill="#0a0a0a"/>
+  <path d="M16 14 L32 46 L48 14" fill="none" stroke="url(#metal)" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#c8c8c8"/>
+      <stop offset="100%" stop-color="#8a8a8a"/>
+    </linearGradient>
+  </defs>
+</svg>
